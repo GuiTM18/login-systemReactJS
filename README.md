@@ -14,6 +14,6 @@
 
 #### nessa parte o index.js estará fazendo um root para geração da pagina web, puxando o id do projeto index.html, já o arquivo app.js que estará as funcionalidades do nosso código
 
-### `yarn start` e irá rodar na porta local 3000
+### `yarn start` para rodar na porta local 3000
 
-![Projeto rodando](projetoapp.png)
+![projetoapp](https://user-images.githubusercontent.com/79342387/218337056-9c20d1b0-5995-4812-ad52-1ad50338f72f.png)
