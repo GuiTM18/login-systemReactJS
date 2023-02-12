@@ -16,4 +16,22 @@
 
 ### `yarn start` e irá rodar na porta local 3000
 
-![Projeto rodando](projetoapp.png)
+![projetoapp](https://user-images.githubusercontent.com/79342387/218337056-9c20d1b0-5995-4812-ad52-1ad50338f72f.png)
+
+### Após isso dentro de src é criado as seguintes pastas:
+
+### styles/global
+
+### pages
+
+* Home
+* Signin
+* Signup
+
+### routes
+
+#### No routes é onde fica nossas rotas, é nele que é responsavel pelo direcionamento de telas e por privar o usuario de alguma tela em específico
+
+![imagem](aqui)
+
+### É sempre importante fazer o import e o export!
