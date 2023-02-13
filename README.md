@@ -32,6 +32,7 @@
 
 ![routes](https://user-images.githubusercontent.com/79342387/218342484-8250c278-17e0-412e-9e93-14a365bd221e.png)
 
+<<<<<<< HEAD
 #### É sempre importante fazer o import e o export!
 
 ### Após isso na pasta src crie o contexts para ser feita todas as autenticações de token e usuários do banco
@@ -43,3 +44,8 @@
 ### finalizando esse processo é preciso importar o `AuthProvider` para o arquivo app.js
 
 !imagem
+=======
+### É sempre importante fazer o import e o export!
+=======
+
+>>>>>>> 8eb1683ca4f7de11ce64ebb11933f07653cc78d3
