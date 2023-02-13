@@ -17,24 +17,29 @@
 ### `yarn start` para rodar na porta local 3000
 
 ![projetoapp](https://user-images.githubusercontent.com/79342387/218337056-9c20d1b0-5995-4812-ad52-1ad50338f72f.png)
-<<<<<<< HEAD
+
 
 ### Após isso dentro de src é criado as seguintes pastas:
 
 ### styles/global
-
 ### pages
-
 * Home
 * Signin
 * Signup
-
 ### routes
 
 #### No routes é onde fica nossas rotas, é nele que é responsavel pelo direcionamento de telas e por privar o usuario de alguma tela em específico
 
-![imagem](aqui)
+![routes](https://user-images.githubusercontent.com/79342387/218342484-8250c278-17e0-412e-9e93-14a365bd221e.png)
 
-### É sempre importante fazer o import e o export!
-=======
->>>>>>> 6028288b76e79b6c101f9205af79adc8e83726a8
+#### É sempre importante fazer o import e o export!
+
+### Após isso na pasta src crie o contexts para ser feita todas as autenticações de token e usuários do banco
+
+!imagem
+
+### feito isso é criado uma pasta chamdada hooks que vai ser responsável por utilizar toda a nossa autenticação
+
+### finalizando esse processo é preciso importar o `AuthProvider` para o arquivo app.js
+
+!imagem
